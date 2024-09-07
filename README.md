@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Masudur Rahman Khukon
 #### I am a mobile app developer 
-![I am a mobile app developer ](https://www.mritsoft.com/flagimage/my%20file/mycover.png)
+![I am a mobile app developer ](https://www.mritsoft.com/flagimage/my%20file/fbcover.jpeg)
 
  I am an app developer, with 5 Years of experience delivering high-quality innovative app solutions With expertise in Android App Development and being a problem solver in the Android studio. Moreover, I work closely with clients in Photoshop, Illustrator, MS Word, etc. to bring their visions to life. I am also a strong communicator and problem-solver. I am committed to delivering projects on time and within budget. and I strive to exceed their expectations with every project. Let's create your dream app together and bring your app
 
