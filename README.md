@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Masudur Rahman Khukon
 #### I am a mobile app developer 
-!([https://www.mritsoft.com/flagimage/my%20file/mycover.png](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/441602373_1141452953592078_7291740555054250998_n.png?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHm86QKsnq-GoqAFcwwLPGpIE7gWrqG8oEgTuBauobygSMQ7USd-q-rqr_OSCOl1lKhyMysQB6kwBl9PTY0v4CM&_nc_ohc=0Aau6WXG3YUQ7kNvgGa9I1n&_nc_oc=Adi4zXQeBjpRvfAjmOe5R7CRbBdxBc7CunX543QAFH3G5J0urL-HPYY0wVU8Lcp6mf0&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=Agny5bc6Sg_NPBul673ZM38&oh=00_AYD_lTNHfj_DzSd7QO0nCftRuDTpVw4knNMVVHwee7Rsgg&oe=67B67B42))
+![Your Image Description](https://raw.githubusercontent.com/khukondeveloper1/khukondeveloper1/main/mycover.png)
+
 
 Hi! I'm a passionate Mobile App Developer with expertise in Java, Kotlin, PHP, and HTML. I specialize in building high-performance Android applications and developing IoT-based solutions that seamlessly integrate hardware and software.
 
